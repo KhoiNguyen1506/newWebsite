@@ -1,0 +1,11 @@
+img{
+    width: 1000px;
+    border-radius: 50%;
+}
+
+body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background: lightcoral;
+    color: aqua;
+}
