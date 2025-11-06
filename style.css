@@ -1,11 +1,11 @@
 img{
     width: 1000px;
-    border-radius: 50%;
+    border-radius: 30%;
 }
 
 body {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    background: lightcoral;
+    background: rgb(34, 22, 174);
     color: aqua;
 }
